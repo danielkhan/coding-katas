@@ -8,11 +8,11 @@
 
 // Log out someObject1['someKey']
 
-// Log out Log out someObject1.someVar1 (it's intended that it's undefined)
+// Log out someObject1.someVar1 (it's intended that it's undefined)
 
-// Log out Log out someObject1['someVar1'] (it's intended that it's undefined)
+// Log out someObject1['someVar1'] (it's intended that it's undefined)
 
-// Log out Log out someObject1[someVar1]
+// Log out someObject1[someVar1]
 
 // Add a key 'someKey2' to someObject1
 
